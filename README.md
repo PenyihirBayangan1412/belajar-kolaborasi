@@ -1,6 +1,4 @@
 # belajar kolaborasi
 Alhamdulillah sukses belajar kolaborasi! <br>
+Kali ini Bayu akan belajar squash and merge, apakah akan berhasil!?<br>
 
-kali ini belajar squash and merge <br>
-
-ini update ke 2 <br>
