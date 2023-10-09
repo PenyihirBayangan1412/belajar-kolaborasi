@@ -1,2 +1,1 @@
-# belajar kolaborasi
-Alhamdulillah sukses belajar kolaborasi!
+# belajar-kolaborasi
