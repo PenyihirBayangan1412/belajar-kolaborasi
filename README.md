@@ -1,2 +1,4 @@
 # belajar-kolaborasi
-latihan code review 
+Yo gaes! <**br**> 
+Kembali lagi di GitHub Coleb! <br>
+Gue lagi nyoba menyelesaikan latihan git review nich! <br>
