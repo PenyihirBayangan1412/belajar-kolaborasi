@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-Mencoba squashing changes
+a. Mencoba squashing changes
+b. Ini yang ke 2
